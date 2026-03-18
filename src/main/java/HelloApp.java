@@ -6,7 +6,7 @@ public class HelloApp {
             String name = args[0];
             System.out.println("Hello, " + name + "!");
         } else {
-            System.out.println("Hello, User!");
+           System.out.println("Hello, User!");
         }
 
     }
